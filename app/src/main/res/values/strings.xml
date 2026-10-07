@@ -1,15 +1,21 @@
 <resources>
     <string name="app_name">Kamera Android</string>
-    <string name="screen_title">Kamera Tugas 6</string>
-    <string name="screen_subtitle">Ambil foto dan simpan langsung ke folder DCIM/tugas_6</string>
     <string name="take_photo">Ambil Foto</string>
-    <string name="photo_preview_description">Pratinjau foto hasil kamera</string>
-    <string name="photo_loaded">Foto berhasil disimpan</string>
-    <string name="photo_saved">Tersimpan di %1$s</string>
-    <string name="photo_status_empty">Belum ada foto. Foto baru akan tersimpan di DCIM/tugas_6.</string>
-    <string name="photo_cancelled">Pengambilan foto dibatalkan</string>
-    <string name="photo_not_available">Foto tidak tersedia</string>
-    <string name="photo_save_failed">Folder DCIM/tugas_6 tidak dapat dibuat</string>
-    <string name="camera_not_available">Aplikasi kamera tidak tersedia</string>
-    <string name="storage_permission_required">Izin penyimpanan diperlukan untuk menyimpan foto</string>
+    <string name="photo_mode">Foto</string>
+    <string name="video_mode">Video</string>
+    <string name="start_recording">Mulai Rekam</string>
+    <string name="stop_recording">Berhenti</string>
+    <string name="retake">Retake</string>
+    <string name="save">Save</string>
+    <string name="photo_ready">Siap mengambil foto</string>
+    <string name="video_ready">Siap merekam video</string>
+    <string name="recording">Sedang merekam</string>
+    <string name="photo_review">Pratinjau foto — pilih Retake atau Save</string>
+    <string name="video_review">Pratinjau video selesai — pilih Retake atau Save</string>
+    <string name="saved_to_folder">Tersimpan di DCIM/tugas_6</string>
+    <string name="save_success">Berhasil disimpan ke DCIM/tugas_6</string>
+    <string name="capture_failed">Pengambilan media gagal</string>
+    <string name="save_failed">Media gagal disimpan</string>
+    <string name="camera_start_failed">Kamera gagal dijalankan</string>
+    <string name="camera_permission_required">Izin kamera diperlukan untuk menggunakan aplikasi</string>
 </resources>
