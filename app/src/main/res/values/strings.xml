@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kamera Android</string>
+    <string name="screen_title">Kamera Tugas 6</string>
+    <string name="screen_subtitle">Ambil foto dan simpan langsung ke folder DCIM/tugas_6</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="photo_preview_description">Pratinjau foto hasil kamera</string>
+    <string name="photo_loaded">Foto berhasil disimpan</string>
+    <string name="photo_saved">Tersimpan di %1$s</string>
+    <string name="photo_status_empty">Belum ada foto. Foto baru akan tersimpan di DCIM/tugas_6.</string>
+    <string name="photo_cancelled">Pengambilan foto dibatalkan</string>
+    <string name="photo_not_available">Foto tidak tersedia</string>
+    <string name="photo_save_failed">Folder DCIM/tugas_6 tidak dapat dibuat</string>
+    <string name="camera_not_available">Aplikasi kamera tidak tersedia</string>
+    <string name="storage_permission_required">Izin penyimpanan diperlukan untuk menyimpan foto</string>
+</resources>
